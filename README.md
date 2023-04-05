@@ -5,3 +5,7 @@ a minimum and a maximum to generate a password for you. Then you give this creat
 the 256 SHA hash. In the next step, the database we created and hashed from 1 to 500,000 or more and stored in the database. And we give the hash 
 of our password that we have to the program and compares it with the hashes in the database. 
 If it is in the database, it will return the existing number to us. If not, it will find it for us using a loop.
+
+
+https://user-images.githubusercontent.com/72755430/230222214-a47079a7-13cc-419d-9d05-b496c2179709.mp4
+
